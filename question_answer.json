@@ -1,0 +1,37 @@
+[
+    {
+        "SL": "1",
+        "QUESTION": "Whate is LiveData in Android ?",
+        "QUESTION_ANSWER": "LiveData is an observable data holder class. Unlike a regular observable, LiveData is lifecycle-aware, meaning it respects the lifecycle of other app components, such as activities, fragments, or services.",
+        "NOTE": "LiveData observe data",
+        "QUESTION_TYPE": "TECH",
+         "QUESTION_CAT": "SOFT"             
+    }, 
+    {
+        "SL": "2",
+        "QUESTION": "Defferent Between Desktop App VS Mobile App",
+        "QUESTION_ANSWER": "Desktop apps can support fixed navigation bars, while mobile are generally limited to pull-out menus. This is quite effective for discoverability, since users may find new sections they didn't previously know about.",
+        "NOTE": "lager screen user Desktop",
+        "QUESTION_TYPE": "TECH",
+         "QUESTION_CAT": "SOFT"             
+    },  
+    {
+        "SL": "3",
+        "QUESTION": "Defferent Between Desktop App VS Mobile App",
+        "QUESTION_ANSWER": "Desktop apps can support fixed navigation bars, while mobile are generally limited to pull-out menus. This is quite effective for discoverability, since users may find new sections they didn't previously know about.",
+        "NOTE": "lager screen user Desktop",
+        "QUESTION_TYPE": "BASIC",
+         "QUESTION_CAT": "GEN"             
+    },   
+    {
+        "SL": "4",
+        "QUESTION": "Defferent Between Desktop App VS Mobile App",
+        "QUESTION_ANSWER": "Desktop apps can support fixed navigation bars, while mobile are generally limited to pull-out menus. This is quite effective for discoverability, since users may find new sections they didn't previously know about.",
+        "NOTE": "lager screen user Desktop",
+        "QUESTION_TYPE": "BASIC",
+         "QUESTION_CAT": "GEN"             
+    }
+    
+    
+    
+]
